@@ -1,0 +1,3 @@
+/Users/paymanferdosali/Desktop/Dev/ObjectDetection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/paymanferdosali/Desktop/Dev/ObjectDetection/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/paymanferdosali/Desktop/Dev/ObjectDetection/cmake-build-debug/CMakeFiles/ObjectDetection.dir
